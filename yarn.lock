@@ -1721,6 +1721,11 @@
   resolved "https://registry.yarnpkg.com/@react-native/polyfills/-/polyfills-2.0.0.tgz#4c40b74655c83982c8cf47530ee7dc13d957b6aa"
   integrity sha512-K0aGNn1TjalKj+65D7ycc1//H9roAQ51GJVk5ZJQFb2teECGmzd86bYDC0aYdbRf7gtovescq4Zt6FR0tgXiHQ==
 
+"@rorticus/private-repo@^1.0.0":
+  version "1.0.0"
+  resolved "https://npm.pkg.github.com/download/@rorticus/private-repo/1.0.0/c24f0f36db6125bf0665343945103012cab64b15#c24f0f36db6125bf0665343945103012cab64b15"
+  integrity sha512-GxJncvqr2dWKNimIkKb+dz5Fn/teyIVGAn/Vx68zOPA+RNsi8deX0ppowgZkRb23wrbFrZuIDCAOu4pIo4UWuw==
+
 "@segment/loosely-validate-event@^2.0.0":
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/@segment/loosely-validate-event/-/loosely-validate-event-2.0.0.tgz#87dfc979e5b4e7b82c5f1d8b722dfd5d77644681"
